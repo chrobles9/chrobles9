@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+<summary>:zap: GitHub Stats</summary>
+
+<img align='left' alt = 'GitHub Stats' src = 'https://github-readme-stats-chrobles9.vercel.apps/api?username=chrobles9&show_icons=true&hide_border=true' />
+
+</details>
+
+
 
