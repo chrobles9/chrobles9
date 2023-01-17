@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+
+
 <details>
 
 <summary>:zap: GitHub Stats</summary>
