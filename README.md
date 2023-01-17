@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align='left' alt = 'GitHub Stats' src = 'https://github-readme-stats-chrobles9.vercel.apps/api?username=chrobles9&show_icons=true&hide_border=true' />
+<img align='left' alt = 'GitHub Stats' src = 'https://github-readme-stats-chrobles9.vercel.apps/api?username=chrobles9' />
 
 </details>
 
