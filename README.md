@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+
+
 
 <details>
 
