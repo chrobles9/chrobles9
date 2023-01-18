@@ -23,16 +23,6 @@ Here are some ideas to get you started:
   
   [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/chrobles9/github-readme-stats)
 
-
-
-  
-  
-  <!--  <a href = 'https://github.com/chrobles9/github-readme-stats'>  -->
-      <img alt = 'GitHub Top Languages' src = 'https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true'/>
- <!--   </a>  
-    <a href = 'https://github.com/chrobles9/github-readme-stats'>  -->
-      <img display = 'block' alt = 'GitHub Stats' src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true' />
- <!--   </a>
 </details>   -->
 
 
