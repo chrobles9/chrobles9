@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-    <a href = 'https://github.com/chrobles9/github-readme-stats'>
+  <!--  <a href = 'https://github.com/chrobles9/github-readme-stats'>  -->
       <img align = 'left' alt = 'GitHub Top Languages' src = 'https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark'/>
-    </a>
-    <a href = 'https://github.com/chrobles9/github-readme-stats'>
+ <!--   </a>  
+    <a href = 'https://github.com/chrobles9/github-readme-stats'>  -->
       <img align = 'left' alt = 'GitHub Stats' src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark' />
-    </a>
-</details>
+ <!--   </a>
+</details>   -->
 
 
 
