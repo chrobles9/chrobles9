@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+  [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+
+  
+  
   <!--  <a href = 'https://github.com/chrobles9/github-readme-stats'>  -->
       <img alt = 'GitHub Top Languages' src = 'https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true'/>
  <!--   </a>  
