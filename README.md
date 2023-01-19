@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img src="https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=4" />
-
-
-  <img src="https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&line_height=20" />
+  
+  [![Top Langs](https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true)](https://github.com/chrobles9/github-readme-stats)
+  
+  [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/chrobles9/github-readme-stats)
 
 
 
