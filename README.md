@@ -25,7 +25,10 @@ Here are some ideas to get you started:
     <p align = 'center'>
       <img src='https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true' />
     </p>
+
   
+  [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/chrobles9/github-readme-stats)
+
 
 
 
