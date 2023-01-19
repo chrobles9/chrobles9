@@ -22,13 +22,9 @@ Here are some ideas to get you started:
       <img src='https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true' />
     </p>
   
-    <p align = 'center'>
-      <img src='https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true' />
-    </p>
-
-  
-  [![Carlos' GitHub stats](https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/chrobles9/github-readme-stats)
-
+   <p align = 'center'>
+     <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true' />
+  </p>
 
 
 
