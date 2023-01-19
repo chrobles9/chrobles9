@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=4" />
 </a>
 <a href="https://github.com/chrobles9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs" />
+  <img align="center" src="https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&line_height=20" />
 </a>
 
 
