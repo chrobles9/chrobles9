@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Carlos! 👋
 
 <!--
 **chrobles9/chrobles9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: ## GitHub Stats</summary>
     <p align = 'center'>
       <img src='https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6' />
     </p>
