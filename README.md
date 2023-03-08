@@ -21,11 +21,6 @@ Here are some ideas to get you started:
     <p align = 'center'>
       <img src='https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6' />
     </p>
-  
-  <a href="https://github.com/chrobles9/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrobles9&repo=github-readme-stats" />
-</a>
-
 
    <p align = 'center'>
      <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&count_private=true' />
