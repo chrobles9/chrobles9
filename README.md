@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </p>
   
    <p align = 'center'>
-[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrobles9)(https://github.com/chrobles9/github-readme-stats)
 
   </p>
 
