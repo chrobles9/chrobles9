@@ -22,6 +22,10 @@ Here are some ideas to get you started:
       <img src='https://github-readme-stats-chrobles9.vercel.app/api/top-langs/?username=chrobles9&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6' />
     </p>
   
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+  
    <p align = 'center'>
 ![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrobles9)(https://github.com/chrobles9/github-readme-stats)
 
