@@ -23,10 +23,13 @@ Here are some ideas to get you started:
     </p>
   
    <p align = 'center'>
-     <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&count_private=true' />
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrobles9)](https://github.com/chrobles9/github-readme-stats)
+
   </p>
 
-
+   <p align = 'center'>
+     <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&count_private=true' />
+  </p>
 
 </details>  
 
