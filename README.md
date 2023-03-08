@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </p>
 
    <p align = 'center'>
-     <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars&count_private=true' />
+     <img src = 'https://github-readme-stats-chrobles9.vercel.app/api?username=chrobles9&show_icons=true&theme=chartreuse-dark&hide_border=true&hide=stars,contribs&count_private=true' />
   </p>
 
 </details>  
